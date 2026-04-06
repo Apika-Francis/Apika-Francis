@@ -9,6 +9,7 @@ I'll attempt to build it — even when I have no idea where to start.
 -  Fuelled by coffee and tea
 -  Avid novel reader
 -  I think maths is genuinely beautiful
+-  Escanor from Seven Deadly Sins is the goat
 
 ## What I do
 -  Studying Computer Science (Maritime University)
