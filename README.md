@@ -1,4 +1,4 @@
-# Hi there, I'm Apika! 👋
+# Hi, I'm Apika! 👋
 
 > CS student at a Maritime University
 
