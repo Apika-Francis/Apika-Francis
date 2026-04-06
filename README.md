@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Apika! 👋
 
-<!--
-**Apika-Francis/Apika-Francis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> CS student at a Maritime University
 
-Here are some ideas to get you started:
+I document my journey filling knowledge gaps, and if an idea pops into my head,
+I'll attempt to build it — even when I have no idea where to start.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A little about me
+- ☕ Fuelled by coffee and tea
+- 📚 Avid novel reader
+- ➗ I think maths is genuinely beautiful
+
+## What I do
+- 🎓 Studying Computer Science (Maritime University)
+- 🔧 Passionate about learning to build robust, scalable systems
+- 📊 Focusing my niche on **Data Engineering** — pipelines, data infrastructure, and everything in between
